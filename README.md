@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swayamug23
 - 👀 I’m interested in ... coding and web delopment
-- 🌱 I’m currently learning ...web development : specifically HTML
+- 🌱 I’m currently learning ...web development 
 - 💞️ I’m looking to collaborate on ...any small project that'll enhance my knowledge in web development
 - 📫 How to reach me ...through my mail
 - 😄 Pronouns: ...he/him
