@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Swayam Negi
+# 👋 Hey there! I'm Swayam 
 
 Welcome to my GitHub! I'm a passionate B.Tech student in **Electronics and Communication Engineering** at **NSUT**, currently in my 2nd year. I love building cool web applications and hardware-based embedded systems.
 
