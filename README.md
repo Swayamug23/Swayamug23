@@ -1,51 +1,96 @@
-# 👋 Hey there! I'm Swayam 
+# 👋 Hey there, I'm Swayam!
 
-Welcome to my GitHub! I'm a passionate B.Tech student in **Electronics and Communication Engineering** at **NSUT**, currently in my 2nd year. I love building cool web applications and hardware-based embedded systems.
+### 💻 Software Developer | AI Enthusiast | ECE @ NSUT
 
-## 🚀 Tech Stack
+Welcome to my GitHub! I'm a B.Tech student in **Electronics and Communication Engineering at Netaji Subhas University of Technology (NSUT), Delhi**.
 
-- **Languages**: C++, JavaScript, Python
-- **Web Development**: HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Tools & Platforms**: Git, GitHub, Vercel,
-- **Learning**: DSA in C++, Web Dev Projects, OS, DBMS, CN, OOPs
-
-### 🚀 Featured Projects
-
-#### 🎵 [Spotify Clone](https://spotify-clone-project-k8yg.vercel.app/)
-> A responsive, music player app using vanilla JS, HTML, and CSS. Includes playlist handling, progress tracking, and volume controls.  
-Tech: HTML, CSS, JavaScript, Vercel Hosting
-
-#### 🔐 [PassLog – Password Manager](https://passlog-password-manager.vercel.app/)
-> A secure and stylish password manager built with React. Allows you to add, edit, delete, and copy credentials with ease.  
-Tech: React, Tailwind CSS, Toastify, localStorage
-
-#### ✅ [To-Do List App](https://to-do-list-react-app-swart.vercel.app/)
-> A simple and responsive to-do manager with local storage, edit/delete features, and clean UI.  
-Tech: React, Tailwind CSS, UUID, localStorage
-## 🏆 Achievements & Involvement
-
-- 🥈 **Silver Medal** – NSUT Annual Sports for Football
-- ⚽ Active player in **NSUT Football & Volleyball** teams
-- 📢 Presentation Dept., Khelo India Para Games (Volunteering)
-- ✋ NSS Volunteer in campus events
-
-## 📈 GitHub Stats
-
-![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swayamug23&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayamug23&layout=compact&theme=tokyonight)
-
-## 🔗 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/swayam-negi)
-- 📫 Email: swayam.ug23@gmail.com
+I'm passionate about building impactful software, exploring AI-powered solutions, and turning ideas into working applications. I enjoy working across the stack, experimenting with new technologies, and solving real-world problems through code.
 
 ---
 
-_“Building things that make a difference — one project at a time.”_
+## 🚀 Tech Stack & Skills
 
+### 💻 Programming Languages
+C++ | JavaScript | Python | Java
 
+### 🌐 Web Development
+HTML | CSS | React.js | Next.js | Tailwind CSS | Node.js | Express.js
 
-<!---
-Swayamug23/Swayamug23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🗄️ Databases & Tools
+MongoDB | Git | GitHub | Vercel | REST APIs
+
+### 🤖 AI & Machine Learning
+Generative AI | LLM Applications | RAG | Vector Databases | AI-powered Automation
+
+### 📚 Currently Learning
+- Data Structures & Algorithms in C++
+- AI Agents and LLM-powered applications
+- Backend development and scalable software systems
+- Operating Systems, DBMS, Computer Networks, and OOPs
+
+---
+
+## 💼 Experience
+
+### Optum — Software Engineering Intern
+
+- Working on an AI-powered automation project focused on Intelligent Financial Processing (IFP) reconciliation.
+- Exploring automated data validation, mismatch detection, and root-cause analysis.
+- Gaining hands-on experience with enterprise systems, databases, and AI-driven solutions.
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 SwiftCart — E-commerce Platform
+
+A modern e-commerce web application focused on delivering a seamless shopping experience through a responsive user interface and interactive components.
+
+**Tech Stack:** React.js, JavaScript, Tailwind CSS
+
+### 🤖 AI Resume Builder
+
+An AI-powered application designed to help users create professional resumes through an intuitive and streamlined resume-building experience.
+
+**Tech Stack:** React.js, Next.js, Tailwind CSS, AI/LLM Integration
+
+### ☕ Get Me A Chai — Creator Support Platform
+
+A full-stack web application inspired by creator-support platforms, enabling creators to build personalized pages and receive support from their audience.
+
+**Tech Stack:** Next.js, React.js, MongoDB, Tailwind CSS
+
+---
+
+## 🏆 Achievements & Involvement
+
+- 🥈 **Silver Medalist — NSUT Annual Sports (Football)**
+- ⚽ Member of NSUT Football and Volleyball teams
+- 📢 Volunteered with the Presentation Department at Khelo India Para Games
+- ✋ NSS Volunteer, participating in campus events and community initiatives
+
+---
+
+## 📊 GitHub & Development
+
+- 💻 Actively building projects and improving my development skills.
+- 🚀 Exploring AI, full-stack development, and real-world applications.
+- 📚 Continuously learning Data Structures & Algorithms and software engineering concepts.
+
+🔗 [Explore My GitHub Repositories](https://github.com/Swayamug23?tab=repositories)
+
+---
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to connecting with fellow developers, collaborating on exciting projects, and exploring new opportunities in software development and AI.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/swayam-915926287/)
+- 🐙 [GitHub](https://github.com/Swayamug23)
+- 📫 **Email:** swayam.ug23@gmail.com
+
+---
+
+### 💡 *"Building things that make a difference — one project at a time."*
